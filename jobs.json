@@ -1,0 +1,30 @@
+[
+    {
+        "job_number":2,
+        "job_title":"Digital Marketer",
+        "job_description":"Join our team to help plan and manage marketing campaigns that promotes our brand, services and products",
+        "job_responsibilities":[
+            "Realigning the company's brand accross various digital channel.",
+            "Implementing content and messaging strategy for lead generation on products and services.",
+            "Hosting company and attend other events required to drive visibility."
+        ],
+        "qualification":[
+            "At least a 2:1 (second class upper division) undergraduate degree from a respectable university.",
+            "At least two (2) years work experience or a postgraduate degree in content-related work"
+        ]
+    },
+    {
+        "job_number":3,
+        "job_title":"Backend Engineer",
+        "job_description":"Join our organisation to help build code base of digital product processes and manage our cloud infrastructure for optimal delivery",
+        "job_responsibilities":[
+            "Managing the deployment of applications, system configurations and security settings of company’s cloud environment.",
+            "Designing, building and maintaining API services accross company’s digital products and services.",
+            "Working with other stakeholders in design and development to improve engineering standards, toolings and processes."
+        ],
+        "qualification":[
+            "At least a 2:1 (second class upper division) undergraduate degree from a respectable university.",
+            "At least two (2) years work experience or a postgraduate degree in content-related work"
+        ]
+    }
+]
