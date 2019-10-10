@@ -11,6 +11,7 @@ flask = "*"
 flask-jsonpify = "*"
 flask-sqlalchemy = "*"
 flask-restful = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.7"
